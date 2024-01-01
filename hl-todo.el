@@ -7,6 +7,7 @@
 ;; Keywords: convenience
 
 ;; Package-Requires: ((emacs "25.1") (compat "29.1.4.2"))
+;; Version: 3.6.0
 
 ;; SPDX-License-Identifier: GPL-3.0-or-later
 
